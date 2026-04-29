@@ -1,0 +1,11 @@
+E-commerce Sales Analysis Report
+
+Key Findings:
+- Top products contribute most revenue
+- Region performance varies
+- Sales show monthly trends
+
+Insights:
+- Focus on high-performing products
+- Improve low-performing regions
+- Monitor growth trends
